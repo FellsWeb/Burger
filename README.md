@@ -24,3 +24,7 @@ Then, we create our connection to the database in connection.js
 We develop our ORM to run simpler methods to query database (read, write, and update)
 Our controller takes in the data response from the queries, and then routes and renders it via Handlebars, resulting in a fully functional app
 We have our GET request, which retrieves burgers; POST request, which adds burgers; and PUT request, which updates the status of burgers from not devoured to devoured
+<<<<<<< HEAD
+=======
+
+> > > > > > > ee598d94ffee78bd5d30bf3813d471e190f062f4
